@@ -1,6 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 
-import { Sidebar } from "../components";
+import { Sidebar } from "@/components";
+
+
 
 export default function DashboardLayout({ children }: { children: React.ReactNode; }) {
   return (
